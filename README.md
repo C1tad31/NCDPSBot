@@ -1,2 +1,2 @@
-# EvilCoreDiscordBot
-Official discord bot for Evil Core
+# NCDPS
+Official discord bot for NCDPS
